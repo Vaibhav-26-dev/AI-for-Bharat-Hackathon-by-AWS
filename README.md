@@ -2,3 +2,5 @@
 requirements.md...
 ☺️☺️🤟
 --Most important directory is the 
+.kiro/specs/loksathi-ai-platform
+Pls visit this for sure ☺️
